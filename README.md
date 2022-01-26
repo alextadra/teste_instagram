@@ -11,8 +11,6 @@ O tamanho das logos estão diferentes, não consegui arruma-las, com mais práti
 
 No futuro pretendo voltar e dar uma organizada , não só para deixa-la mais apresentavél, mas também pra exercitar ainda mais o que for colecionando com o aprendizado no decorrer das aulas e projetos.
 
-Na parte de vizualização mobile no meu browser mesmo seguindo os passos corretamente e configurando com display:none,  a imagem utilizada não foi oculta.
-
 Não utilizei o Git para subitr esse projeto, achei complexo demais por hora para faze-lo.
 
 No mais curti demais fazê-lo, agradeço a Gabriela por ser essa ponte entre o conhecimento e minha prática, e que venham os próximos.
