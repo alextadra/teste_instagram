@@ -8,13 +8,13 @@
 }
 
 body {
-width: 100%;
-min-height: 100vh;
-background-color: rgb 243 243 243;
-margin: 0%;
-padding: 0%;
-display: flex;
-justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
 }
 
 .instagram-wrapper {
@@ -61,7 +61,6 @@ justify-content: center;
 }
 
 .instagram-logo {
-    display:;
     height: 4rem;
 }
 
@@ -90,6 +89,7 @@ border-radius: 4px;
     color: #0095f6;
     margin-top: 1rem;
 }
+
 .not-acount {
     color: rgb(160, 160, 160);
 }
@@ -106,6 +106,7 @@ border-radius: 4px;
     width: 100%;
     padding: 4rem 0;
 }
+
 .download {
     display: flex;
     width: 100%;
@@ -123,6 +124,7 @@ border-radius: 4px;
 .app-download:nth-child(1) {
 background-image: url("./img/apple.png");
 }
+
 .app-download:nth-child(2) {
     background-image: url("./img/googleplay.png");
 }
@@ -139,9 +141,11 @@ background-image: url("./img/apple.png");
     body {
         background-color: #ffffff;
     }
+
     .instagram-wrapper {
         width: 90%;
     }
+
     .instagram-phone {
         display:none;
     }
@@ -149,8 +153,8 @@ background-image: url("./img/apple.png");
     .instagram-continue {
         width: 100%;
     }
+
     .group {
         border: 1px solid transparent;
     }
 }
-
